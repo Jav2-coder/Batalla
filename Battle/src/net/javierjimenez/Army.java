@@ -6,7 +6,7 @@ package net.javierjimenez;
 import java.util.ArrayList;
 
 /**
- * @author Surrui
+ * @author  Jav2-coder 
  *
  */
 public class Army {
